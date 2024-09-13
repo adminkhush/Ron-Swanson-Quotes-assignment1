@@ -1,0 +1,28 @@
+/* src/components/QuoteCard.css */
+.quote-card {
+    /* background-color: #064886; */
+    background-color: #064886;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 4px 7px rgba(60, 60, 60, 0.5);
+    text-align: center;
+    color: #fff;
+  }
+  
+  .save-btn {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 4px 7px rgba(60, 60, 60, 0.5);
+
+  }
+  
+  .save-btn:hover {
+    background-color: #0056b3;
+  }
+  
